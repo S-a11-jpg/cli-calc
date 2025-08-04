@@ -1,8 +1,4 @@
-Here is a **professionally formatted `README.md` file** with bold headings and clear, line-by-line structure. It follows a clean and easy-to-read format, suitable for GitHub or formal submission:
 
----
-
-```markdown
 # 🧮 CLI Calculator App
 
 A simple, beginner-friendly **Command-Line Calculator** built in **Python** for the **Python Developer Internship** at **Elevated Labs**.
@@ -37,14 +33,12 @@ To build a functional and user-friendly command-line calculator using Python tha
 - Keeps running until the user chooses to exit  
 - Displays the result clearly after each operation  
 
----
 
 **🔹 Technologies Used:**  
 - Python 3.x  
 - VS Code or any text editor  
 - Terminal/Command Prompt  
 
----
 
 **🔹 Key Concepts Applied:**  
 - Functions  
@@ -53,19 +47,15 @@ To build a functional and user-friendly command-line calculator using Python tha
 - User Input Handling  
 - Exception Handling  
 
----
 
 **🔹 Folder Structure:**
-```
 
 calculator-cli-app/
 │
 ├── calculator.py         # Main Python script
 └── README.md             # Project documentation
 
-````
 
----
 
 **🔹 How to Run the Project:**
 
@@ -81,11 +71,9 @@ cd calculator-cli-app
 python calculator.py
 ```
 
----
 
 **🔹 Sample Output:**
 
-```
 🧮 Welcome to the CLI Calculator!
 
 Choose operation:
@@ -98,7 +86,6 @@ Enter choice (1-5): 3
 Enter first number: 6
 Enter second number: 7
 ✅ Result: 42.0
-```
 
 ---
 
@@ -107,9 +94,6 @@ Enter second number: 7
 * This project is for learning and demonstration purposes.
 * It can be extended to include more features like square, modulus, exponent, etc.
 * Works with Python 3.7 and above.
-
----
-
 
 
 🔹 License:
